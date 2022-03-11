@@ -1,0 +1,14 @@
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\bin\Debug\netcoreapp3.1\DotNetCore.exe
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\bin\Debug\netcoreapp3.1\DotNetCore.deps.json
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\bin\Debug\netcoreapp3.1\DotNetCore.runtimeconfig.json
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\bin\Debug\netcoreapp3.1\DotNetCore.runtimeconfig.dev.json
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\bin\Debug\netcoreapp3.1\DotNetCore.dll
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\bin\Debug\netcoreapp3.1\DotNetCore.pdb
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.csprojAssemblyReference.cache
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.AssemblyInfoInputs.cache
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.AssemblyInfo.cs
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.dll
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.pdb
+C:\Users\Eugheny\source\repos\DotNetCore\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.genruntimeconfig.cache
